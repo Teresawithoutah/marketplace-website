@@ -1,0 +1,254 @@
+[01-Aug-2020 03:24:14 UTC] PHP Fatal error:  Uncaught Error: Class 'msqli' not found in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 29
+[01-Aug-2020 03:26:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'millet19 '@'localhost' (using password: YES) in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 34
+[01-Aug-2020 03:27:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 45
+[01-Aug-2020 03:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 53
+[01-Aug-2020 03:34:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 45
+[01-Aug-2020 03:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 45
+[01-Aug-2020 03:39:15 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 45
+[01-Aug-2020 03:39:44 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 48
+[01-Aug-2020 03:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 53
+[01-Aug-2020 03:43:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 46
+[01-Aug-2020 03:47:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'millet19'@'localhost' to database 'productinfo' in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 35
+[01-Aug-2020 03:48:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'millet19'@'localhost' to database 'productinfo' in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 35
+[01-Aug-2020 03:51:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'millet19'@'localhost' to database 'productinfo' in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 35
+[01-Aug-2020 03:54:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'test'@'localhost' (using password: YES) in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 35
+[01-Aug-2020 03:55:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'millet19_test'@'localhost' to database 'productinfo' in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 35
+[01-Aug-2020 03:57:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'millet19_admin'@'localhost' to database 'products' in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 35
+[01-Aug-2020 03:57:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'millet19_admin'@'localhost' to database 'products' in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 35
+[01-Aug-2020 03:58:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 35
+[01-Aug-2020 04:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/millet19/public_html/Isopod-Ecommerce/manager/insertproduct.php on line 54
+[08-Dec-2021 02:21:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'millet19_admin'@'localhost' (using password: YES) in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php on line 36
+[08-Dec-2021 02:43:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[08-Dec-2021 02:43:56 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[08-Dec-2021 02:43:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[08-Dec-2021 02:45:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[08-Dec-2021 02:45:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[08-Dec-2021 02:45:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[08-Dec-2021 02:46:01 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[08-Dec-2021 02:46:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[08-Dec-2021 02:46:36 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[08-Dec-2021 02:46:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[08-Dec-2021 02:46:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[08-Dec-2021 02:47:19 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 00:22:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 00:22:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:01 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 00:23:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:16 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 00:23:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 00:23:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:23:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 00:23:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:24:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:24:10 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 00:24:12 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:24:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 00:24:14 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:24:20 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:24:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 232
+[10-Dec-2021 00:24:28 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 01:02:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 01:02:34 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 242
+[10-Dec-2021 01:02:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 01:02:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 242
+[10-Dec-2021 01:02:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 242
+[10-Dec-2021 01:29:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 01:29:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 242
+[10-Dec-2021 01:29:33 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 01:29:34 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 242
+[10-Dec-2021 01:29:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 242
+[10-Dec-2021 01:29:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 01:29:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 242
+[10-Dec-2021 01:29:42 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 242
+[10-Dec-2021 02:07:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 02:07:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 02:07:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 02:07:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 02:07:12 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 02:07:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 02:07:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 02:13:00 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 02:13:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 268
+[10-Dec-2021 02:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jenkeo1/public_html/finalproject/manager/showinventory.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 234
+[10-Dec-2021 02:18:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 259
+[10-Dec-2021 02:18:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 276
+[10-Dec-2021 02:20:04 UTC] PHP Parse error:  syntax error, unexpected 'adminindex' (T_STRING), expecting ',' or ';' in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 267
+[10-Dec-2021 02:20:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 02:20:10 UTC] PHP Parse error:  syntax error, unexpected 'adminindex' (T_STRING), expecting ',' or ';' in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 267
+[10-Dec-2021 02:20:36 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 273
+[10-Dec-2021 03:00:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 15:17:57 UTC] PHP Fatal error:  Uncaught Exception: That username is taken - go back and choose another one. in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php on line 53
+[10-Dec-2021 15:25:24 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 15:25:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 15:25:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 273
+[10-Dec-2021 15:25:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 273
+[10-Dec-2021 15:25:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 273
+[10-Dec-2021 15:25:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 273
+[10-Dec-2021 15:25:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 15:25:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 15:25:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 273
+[10-Dec-2021 15:26:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 15:26:58 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 15:26:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 273
+[10-Dec-2021 15:38:42 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 15:38:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[10-Dec-2021 15:38:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 15:57:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[10-Dec-2021 15:57:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[10-Dec-2021 15:57:48 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[14-Dec-2021 02:29:47 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[14-Dec-2021 02:29:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[14-Dec-2021 02:29:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[14-Dec-2021 02:29:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[14-Dec-2021 02:30:22 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[14-Dec-2021 02:30:24 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[14-Dec-2021 02:30:26 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[14-Dec-2021 02:30:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[14-Dec-2021 14:36:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[14-Dec-2021 14:36:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[14-Dec-2021 14:36:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[14-Dec-2021 14:36:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[14-Dec-2021 23:53:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[14-Dec-2021 23:57:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[14-Dec-2021 23:57:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[14-Dec-2021 23:58:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[14-Dec-2021 23:58:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 00:01:48 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[15-Dec-2021 00:04:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 00:04:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[15-Dec-2021 00:07:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 00:07:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[15-Dec-2021 00:08:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 235
+[15-Dec-2021 00:55:15 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 00:55:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 00:55:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 00:56:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 00:57:33 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 00:57:34 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 00:57:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 00:57:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:00:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 01:00:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:07:14 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:07:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 01:08:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:08:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 01:08:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:08:24 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 01:08:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:08:33 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:08:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 01:16:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 01:16:56 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:17:00 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:17:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 01:17:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:17:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 01:20:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:20:36 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 01:21:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:21:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:22:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:23:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:25:45 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:37:15 UTC] PHP Fatal error:  Uncaught Exception: That username is taken - go back and choose another one. in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php on line 55
+[15-Dec-2021 01:37:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 01:38:30 UTC] PHP Fatal error:  Uncaught Exception: That username is taken - go back and choose another one. in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php on line 55
+[15-Dec-2021 01:39:07 UTC] PHP Fatal error:  Uncaught Exception: That username is taken - go back and choose another one. in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php on line 55
+[15-Dec-2021 01:39:29 UTC] PHP Fatal error:  Uncaught Exception: That username is taken - go back and choose another one. in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/jenkeo1/public_html/finalproject/manager/adminsignup.php on line 55
+[15-Dec-2021 01:39:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 02:41:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 02:42:18 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 02:42:20 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 02:43:01 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 02:43:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 02:47:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:16:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 16:17:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:17:10 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 16:17:16 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:17:20 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:17:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:17:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:17:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:17:40 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:34:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[15-Dec-2021 16:34:06 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:34:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[15-Dec-2021 16:34:43 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[15-Dec-2021 16:35:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 01:37:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[16-Dec-2021 01:37:26 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 01:37:27 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[16-Dec-2021 01:37:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 01:42:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[16-Dec-2021 01:46:26 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 01:46:41 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[16-Dec-2021 01:49:19 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 01:49:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 01:52:16 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 02:56:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[16-Dec-2021 02:56:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 02:58:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 02:58:19 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[16-Dec-2021 02:58:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 02:58:34 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[16-Dec-2021 02:58:41 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 02:58:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[16-Dec-2021 02:58:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[17-Dec-2021 01:18:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/hrmanagement.php on line 260
+[17-Dec-2021 01:18:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[17-Dec-2021 01:18:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[17-Dec-2021 01:19:03 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
+[17-Dec-2021 01:19:05 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[17-Dec-2021 01:20:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/showinventory.php on line 272
+[17-Dec-2021 01:20:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/jenkeo1/public_html/finalproject/manager/adminindex.php on line 236
