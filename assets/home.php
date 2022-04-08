@@ -28,7 +28,6 @@ if (isset($_SESSION['UserUsername'])) {
     font: 400 15px Lato, sans-serif;
     line-height: 1.2;
     color: #818181;
-    display: ;
   }
   h2 {
     font-size: 24px;
